@@ -80,7 +80,7 @@ Asynchronous tests in Jasmine are pretty easy.  Just add `done();` to the end of
 * https://github.com/jasmine
 * http://jasmine.github.io/2.0/introduction.html
 * JavaScript Testing with Jasmine by Evan Hahn.
-* The example files included with this README file.
+* The example files included in the src and spec files in this repo.
 
 **Videos**
 * JavaScript Testing with Jasmine by Java Tutorials https://www.youtube.com/watch?v=MEQqgy_UaTw&list=PLLIDEoLBMMnuSyCmiGUiSwbERkVlCTmhX 
